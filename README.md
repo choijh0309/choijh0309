@@ -30,4 +30,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=choijh0309&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijh0309&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
-    </div>
+    </div> <br>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🍎 Baekjoon </h2> 
+<div align="center"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choijh0309"> </div>
+</div>
