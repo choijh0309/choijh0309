@@ -22,14 +22,5 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
          <a href=mailto:choijh0309@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:choijh0309@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🍎 Baekjoon </h2> 
-<div align="left"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choijh0309"> </div>
-</div>
-
-<br>
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍🎓 Programmers </h2> 
-
-[![](https://github.com/choijh0309/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/choijh0309/github-programmers-rank) 
+          </div>
+    
